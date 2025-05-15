@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_Restart",
+  "%Name":"O_BoutonPlay",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Restart",
+  "name":"O_BoutonPlay",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Restart",
-    "path":"sprites/S_Restart/S_Restart.yy",
+    "name":"S_BoutonPlay",
+    "path":"sprites/S_BoutonPlay/S_BoutonPlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,
