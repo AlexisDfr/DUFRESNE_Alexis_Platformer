@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_Epee",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_Decor",
+  "eventList":[],
   "managed":true,
-  "name":"O_Epee",
+  "name":"O_Decor",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Epee",
-    "path":"sprites/S_Epee/S_Epee.yy",
+    "name":"S_Decor",
+    "path":"sprites/S_Decor/S_Decor.yy",
   },
   "spriteMaskId":null,
   "visible":true,
