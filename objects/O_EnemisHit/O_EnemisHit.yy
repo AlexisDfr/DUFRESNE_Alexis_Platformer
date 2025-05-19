@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_EnemisHit",
-    "path":"sprites/S_EnemisHit/S_EnemisHit.yy",
+    "name":"S_EnemisTouche",
+    "path":"sprites/S_EnemisTouche/S_EnemisTouche.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 056072D4
-/// @DnDArgument : "speed" "6"
+/// @DnDArgument : "speed" "5"
 /// @DnDArgument : "type" "1"
-hspeed = 6;
+hspeed = 5;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

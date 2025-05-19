@@ -11,3 +11,10 @@ HP_Enemis = 8;
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "invincibleE1"
 invincibleE1 = false;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 359FDA66
+/// @DnDArgument : "speed" "3"
+/// @DnDArgument : "type" "1"
+hspeed = 3;

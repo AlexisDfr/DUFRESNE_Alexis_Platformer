@@ -24,17 +24,9 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 6B89F303
 	/// @DnDParent : 14E03F40
-	/// @DnDArgument : "steps" "200"
+	/// @DnDArgument : "steps" "90"
 	/// @DnDArgument : "alarm" "10"
-	alarm_set(10, 200);
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 1432E07C
-	/// @DnDParent : 14E03F40
-	/// @DnDArgument : "expr" "false"
-	/// @DnDArgument : "var" "invincible"
-	invincible = false;
+	alarm_set(10, 90);
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
