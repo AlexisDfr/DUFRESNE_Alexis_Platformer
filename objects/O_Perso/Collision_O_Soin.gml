@@ -8,7 +8,7 @@ if( hp < hp_max){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 27C12EF7
 	/// @DnDParent : 612840E6
-	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "expr" "3"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "hp"
-	hp += 2;}
+	hp += 3;}

@@ -24,9 +24,9 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 5BCB175D
 	/// @DnDParent : 40C8B362
-	/// @DnDArgument : "steps" "60"
+	/// @DnDArgument : "steps" "45"
 	/// @DnDArgument : "alarm" "10"
-	alarm_set(10, 60);
+	alarm_set(10, 45);
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
