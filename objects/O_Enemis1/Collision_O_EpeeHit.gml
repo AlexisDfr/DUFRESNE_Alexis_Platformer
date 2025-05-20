@@ -6,11 +6,15 @@
 if(invincible == false){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 6455DC2D
+	/// @DnDInput : 2
 	/// @DnDParent : 40C8B362
 	/// @DnDArgument : "expr" "-1"
 	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "expr_1" "1"
 	/// @DnDArgument : "var" "HP_Enemis"
+	/// @DnDArgument : "var_1" "knockbackpower"
 	HP_Enemis += -1;
+	knockbackpower = 1;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -24,9 +28,9 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 5BCB175D
 	/// @DnDParent : 40C8B362
-	/// @DnDArgument : "steps" "45"
+	/// @DnDArgument : "steps" "10"
 	/// @DnDArgument : "alarm" "10"
-	alarm_set(10, 45);
+	alarm_set(10, 10);
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1

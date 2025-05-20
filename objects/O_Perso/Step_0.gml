@@ -152,9 +152,8 @@ var l035147E2_0;l035147E2_0 = mouse_check_button_pressed(mb_left);if (l035147E
 		/// @DnDVersion : 1
 		/// @DnDHash : 6DA0CCFF
 		/// @DnDParent : 32D04DA2
-		/// @DnDArgument : "steps" "60"
 		/// @DnDArgument : "alarm" "2"
-		alarm_set(2, 60);
+		alarm_set(2, 30);
 	
 		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1

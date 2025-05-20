@@ -12,8 +12,8 @@
   "name":"O_TirEnemis2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemis",
+    "path":"folders/Objects/Enemis.yy",
   },
   "parentObjectId":null,
   "persistent":false,

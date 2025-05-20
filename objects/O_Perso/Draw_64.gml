@@ -7,12 +7,6 @@
 /// @DnDSaveInfo : "sprite" "S_Ame"
 draw_sprite(S_Ame, 0, 10, 5);
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 4366D754
-/// @DnDArgument : "var" "Ame"
-Ame = 0;
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 31A6071B
@@ -21,8 +15,8 @@ Ame = 0;
 /// @DnDArgument : "xscale" "1.3"
 /// @DnDArgument : "yscale" "1.3"
 /// @DnDArgument : "caption" "" ""
-/// @DnDArgument : "text" "0"
-draw_text_transformed(50, 25, string(" ") + string(0), 1.3, 1.3, 0);
+/// @DnDArgument : "text" "Ame"
+draw_text_transformed(50, 25, string(" ") + string(Ame), 1.3, 1.3, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 /// @DnDVersion : 1
@@ -33,12 +27,6 @@ draw_text_transformed(50, 25, string(" ") + string(0), 1.3, 1.3, 0);
 /// @DnDSaveInfo : "sprite" "S_Pieces"
 draw_sprite(S_Pieces, 0, 10, 55);
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 5C852BB9
-/// @DnDArgument : "var" "Gold"
-Gold = 0;
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 11E32A90
@@ -47,5 +35,5 @@ Gold = 0;
 /// @DnDArgument : "xscale" "1.3"
 /// @DnDArgument : "yscale" "1.3"
 /// @DnDArgument : "caption" "" ""
-/// @DnDArgument : "text" "0"
-draw_text_transformed(50, 75, string(" ") + string(0), 1.3, 1.3, 0);
+/// @DnDArgument : "text" "Gold"
+draw_text_transformed(50, 75, string(" ") + string(Gold), 1.3, 1.3, 0);
