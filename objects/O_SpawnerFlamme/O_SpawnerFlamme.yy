@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"O_Restart",
+  "%Name":"O_SpawnerFlamme",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Restart",
+  "name":"O_SpawnerFlamme",
   "overriddenProperties":[],
   "parent":{
-    "name":"INGAME",
-    "path":"folders/Objects/INGAME.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Restart",
-    "path":"sprites/S_Restart/S_Restart.yy",
+    "name":"S_SpawnerFlamme",
+    "path":"sprites/S_SpawnerFlamme/S_SpawnerFlamme.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

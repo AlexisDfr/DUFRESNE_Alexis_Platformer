@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_Sol",
+  "%Name":"O_CollisionEnemis",
   "eventList":[],
   "managed":true,
-  "name":"O_Sol",
+  "name":"O_CollisionEnemis",
   "overriddenProperties":[],
   "parent":{
-    "name":"INGAME",
-    "path":"folders/Objects/INGAME.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Sol",
-    "path":"sprites/S_Sol/S_Sol.yy",
+    "name":"S_CollisionEnemis",
+    "path":"sprites/S_CollisionEnemis/S_CollisionEnemis.yy",
   },
   "spriteMaskId":null,
   "visible":false,

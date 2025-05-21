@@ -139,12 +139,11 @@ var l3EB2A448_0 = instance_place(x + 0, y + 2, [O_Sol]);if (!(l3EB2A448_0 > 0))
 			/// @DnDHash : 1B0C47B0
 			/// @DnDParent : 588B95A5
 			/// @DnDArgument : "x" "50"
-			/// @DnDArgument : "x_relative" "1"
 			/// @DnDArgument : "y" "80"
 			/// @DnDArgument : "y_relative" "1"
 			/// @DnDArgument : "type" "5"
 			/// @DnDArgument : "size" "1"
-			effect_create_below(5, x + 50, y + 80, 1, $FFFFFF & $ffffff);}}}
+			effect_create_below(5, 50, y + 80, 1, $FFFFFF & $ffffff);}}}
 
 /// @DnDAction : YoYo Games.Movement.move_and_collide
 /// @DnDVersion : 1

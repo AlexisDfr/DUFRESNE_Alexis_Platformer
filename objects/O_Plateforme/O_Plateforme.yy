@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_Sol",
+  "%Name":"O_Plateforme",
   "eventList":[],
   "managed":true,
-  "name":"O_Sol",
+  "name":"O_Plateforme",
   "overriddenProperties":[],
   "parent":{
     "name":"INGAME",
@@ -26,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"S_Sol",
-    "path":"sprites/S_Sol/S_Sol.yy",
+    "name":"S_Plateforme",
+    "path":"sprites/S_Plateforme/S_Plateforme.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

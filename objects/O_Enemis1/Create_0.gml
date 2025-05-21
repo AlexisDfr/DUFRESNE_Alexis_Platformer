@@ -9,8 +9,8 @@ HP_Enemis = 8;
 /// @DnDVersion : 1
 /// @DnDHash : 24E231DD
 /// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "invincibleE1"
-invincibleE1 = false;
+/// @DnDArgument : "var" "invincible"
+invincible = false;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
