@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"S_TutoPiegeSol",
+  "%Name":"S_RoomSwap2",
   "bboxMode":0,
   "bbox_bottom":63,
   "bbox_left":0,
@@ -12,28 +12,28 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"04348c12-4f6e-4131-a572-90f9102c0c2a","name":"04348c12-4f6e-4131-a572-90f9102c0c2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"f2a23b7e-224b-4006-bbed-3359841fae22","name":"f2a23b7e-224b-4006-bbed-3359841fae22","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"0650c182-f8ea-4da0-98fa-8575619af265","blendMode":0,"displayName":"default","isLocked":false,"name":"0650c182-f8ea-4da0-98fa-8575619af265","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"fa9b4646-e7a1-47b5-be74-657318a8583c","blendMode":0,"displayName":"default","isLocked":false,"name":"fa9b4646-e7a1-47b5-be74-657318a8583c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_TutoPiegeSol",
+  "name":"S_RoomSwap2",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Enemis",
-    "path":"folders/Sprites/Enemis.yy",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"S_TutoPiegeSol",
+    "%Name":"S_RoomSwap2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_TutoPiegeSol",
+    "name":"S_RoomSwap2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04348c12-4f6e-4131-a572-90f9102c0c2a","path":"sprites/S_TutoPiegeSol/S_TutoPiegeSol.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a3a895a6-50e1-46f4-82ee-1140ae3df401","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f2a23b7e-224b-4006-bbed-3359841fae22","path":"sprites/S_RoomSwap2/S_RoomSwap2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"88c06879-053e-4028-9935-9f15ac16b5a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

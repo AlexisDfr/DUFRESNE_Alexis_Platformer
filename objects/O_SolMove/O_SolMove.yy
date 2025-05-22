@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_SolMove",
-    "path":"sprites/S_SolMove/S_SolMove.yy",
+    "name":"S_Sol",
+    "path":"sprites/S_Sol/S_Sol.yy",
   },
   "spriteMaskId":null,
   "visible":false,

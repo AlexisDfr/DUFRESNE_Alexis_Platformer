@@ -15,8 +15,8 @@ draw_sprite(S_Ame, 0, 10, 5);
 /// @DnDArgument : "xscale" "1.3"
 /// @DnDArgument : "yscale" "1.3"
 /// @DnDArgument : "caption" "" ""
-/// @DnDArgument : "text" "Ame"
-draw_text_transformed(60, 25, string(" ") + string(Ame), 1.3, 1.3, 0);
+/// @DnDArgument : "text" "global.Ame"
+draw_text_transformed(60, 25, string(" ") + string(global.Ame), 1.3, 1.3, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 /// @DnDVersion : 1
@@ -35,5 +35,5 @@ draw_sprite(S_Pieces, 0, 10, 80);
 /// @DnDArgument : "xscale" "1.3"
 /// @DnDArgument : "yscale" "1.3"
 /// @DnDArgument : "caption" "" ""
-/// @DnDArgument : "text" "Gold"
-draw_text_transformed(60, 100, string(" ") + string(Gold), 1.3, 1.3, 0);
+/// @DnDArgument : "text" "global.Gold"
+draw_text_transformed(60, 100, string(" ") + string(global.Gold), 1.3, 1.3, 0);

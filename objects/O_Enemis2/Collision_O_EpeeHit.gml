@@ -2,8 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 3015C965
 /// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "HP_Enemis2"
-HP_Enemis2 = -1;
+HP_Enemis2 += -1;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

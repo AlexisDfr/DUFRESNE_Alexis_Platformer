@@ -3,5 +3,5 @@
 /// @DnDHash : 73F42D8F
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "Gold"
-Gold += 1;
+/// @DnDArgument : "var" "global.Gold"
+global.Gold += 1;

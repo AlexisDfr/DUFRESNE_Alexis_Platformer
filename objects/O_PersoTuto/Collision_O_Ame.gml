@@ -3,8 +3,8 @@
 /// @DnDHash : 014CD17C
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "Ame"
-Ame += 1;
+/// @DnDArgument : "var" "global.Ame"
+global.Ame += 1;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

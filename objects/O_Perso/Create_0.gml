@@ -8,11 +8,11 @@ invincible = false;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7B733661
-/// @DnDArgument : "var" "Gold"
-Gold = 0;
+/// @DnDArgument : "var" "global.dGold"
+global.dGold = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 0D69CD75
-/// @DnDArgument : "var" "Ame"
-Ame = 0;
+/// @DnDArgument : "var" "global.Ame"
+global.Ame = 0;

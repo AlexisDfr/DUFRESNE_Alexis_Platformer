@@ -7,9 +7,9 @@ if(alarm_get(1) <= 0){	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
 	/// @DnDHash : 0B492742
 	/// @DnDParent : 624CC770
-	/// @DnDArgument : "steps" "90"
+	/// @DnDArgument : "steps" "45"
 	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 90);
+	alarm_set(1, 45);
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1

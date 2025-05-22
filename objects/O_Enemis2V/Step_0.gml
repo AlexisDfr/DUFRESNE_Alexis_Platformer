@@ -7,9 +7,9 @@ if(alarm_get(1) <= 0){	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
 	/// @DnDHash : 2CB8A3A6
 	/// @DnDParent : 74D72D4D
-	/// @DnDArgument : "steps" "90"
+	/// @DnDArgument : "steps" "45"
 	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 90);
+	alarm_set(1, 45);
 
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
@@ -20,4 +20,5 @@ if(alarm_get(1) <= 0){	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDArgument : "var_temp" "1"
 	/// @DnDArgument : "objectid" "O_TirEnemis2V"
 	/// @DnDArgument : "layer" ""Attaque""
+	/// @DnDSaveInfo : "objectid" "O_TirEnemis2V"
 	instance_create_layer(x + 0, y + 0, "Attaque", O_TirEnemis2V);}
