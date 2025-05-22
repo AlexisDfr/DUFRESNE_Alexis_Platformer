@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite23",
-    "path":"sprites/Sprite23/Sprite23.yy",
+    "name":"S_PiegeSol",
+    "path":"sprites/S_PiegeSol/S_PiegeSol.yy",
   },
   "spriteMaskId":null,
   "visible":true,

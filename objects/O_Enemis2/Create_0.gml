@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 0B436F6F
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "invincible"
-invincible = false;
+/// @DnDHash : 75B087D5
+/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "var" "HP_Enemis2"
+HP_Enemis2 = 2;

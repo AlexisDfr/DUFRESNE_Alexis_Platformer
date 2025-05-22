@@ -6,8 +6,8 @@
   "name":"O_Decor",
   "overriddenProperties":[],
   "parent":{
-    "name":"INGAME",
-    "path":"folders/Objects/INGAME.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

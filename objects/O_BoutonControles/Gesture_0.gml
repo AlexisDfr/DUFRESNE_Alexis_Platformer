@@ -1,6 +1,12 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Layers.Layer_Set_Visible
 /// @DnDVersion : 1
-/// @DnDHash : 10AC881B
-/// @DnDArgument : "room" "R_Controles"
-/// @DnDSaveInfo : "room" "R_Controles"
-room_goto(R_Controles);
+/// @DnDHash : 738DA8EE
+/// @DnDArgument : "visible" "1"
+/// @DnDArgument : "layer" ""Controles""
+layer_set_visible("Controles", 1);
+
+/// @DnDAction : YoYo Games.Layers.Layer_Set_Visible
+/// @DnDVersion : 1
+/// @DnDHash : 2EADC5B5
+/// @DnDArgument : "layer" ""Pause""
+layer_set_visible("Pause", 0);

@@ -1,6 +1,12 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Layers.Layer_Set_Visible
 /// @DnDVersion : 1
-/// @DnDHash : 759427D9
-/// @DnDArgument : "room" "R_MenuPause"
-/// @DnDSaveInfo : "room" "R_MenuPause"
-room_goto(R_MenuPause);
+/// @DnDHash : 3C981C87
+/// @DnDArgument : "visible" "1"
+/// @DnDArgument : "layer" ""Pause""
+layer_set_visible("Pause", 1);
+
+/// @DnDAction : YoYo Games.Layers.Layer_Set_Visible
+/// @DnDVersion : 1
+/// @DnDHash : 4716D7BD
+/// @DnDArgument : "layer" ""Controles""
+layer_set_visible("Controles", 0);

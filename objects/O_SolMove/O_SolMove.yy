@@ -35,5 +35,5 @@
     "path":"sprites/S_SolMove/S_SolMove.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

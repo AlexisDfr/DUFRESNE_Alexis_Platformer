@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 74307409
+/// @DnDHash : 66FB726A
 /// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "invincible"
-invincible = false;
+/// @DnDArgument : "var" "isDashing"
+isDashing = false;
