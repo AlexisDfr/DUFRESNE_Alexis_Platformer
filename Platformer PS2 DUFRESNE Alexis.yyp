@@ -38,7 +38,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"Platformer PS2 DUFRESNE Alexis",
   "resources":[
@@ -83,7 +83,6 @@
     {"id":{"name":"O_SpawnerFlamme","path":"objects/O_SpawnerFlamme/O_SpawnerFlamme.yy",},},
     {"id":{"name":"O_TirEnemis2","path":"objects/O_TirEnemis2/O_TirEnemis2.yy",},},
     {"id":{"name":"O_TirEnemis2V","path":"objects/O_TirEnemis2V/O_TirEnemis2V.yy",},},
-    {"id":{"name":"O_Transition","path":"objects/O_Transition/O_Transition.yy",},},
     {"id":{"name":"O_TutoPiegesSol","path":"objects/O_TutoPiegesSol/O_TutoPiegesSol.yy",},},
     {"id":{"name":"R_Controles","path":"rooms/R_Controles/R_Controles.yy",},},
     {"id":{"name":"R_EcranT","path":"rooms/R_EcranT/R_EcranT.yy",},},
@@ -136,8 +135,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"R_Niveau3","path":"rooms/R_Niveau3/R_Niveau3.yy",},},
-    {"roomId":{"name":"R_NiveauTuto","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},},
     {"roomId":{"name":"R_Niveau1","path":"rooms/R_Niveau1/R_Niveau1.yy",},},
+    {"roomId":{"name":"R_NiveauTuto","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},},
     {"roomId":{"name":"R_Niveau2","path":"rooms/R_Niveau2/R_Niveau2.yy",},},
     {"roomId":{"name":"R_EcranT","path":"rooms/R_EcranT/R_EcranT.yy",},},
     {"roomId":{"name":"R_Menu","path":"rooms/R_Menu/R_Menu.yy",},},
