@@ -18,3 +18,17 @@ invincible = false;
 /// @DnDArgument : "speed" "3"
 /// @DnDArgument : "type" "1"
 hspeed = 3;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 56349985
+/// @DnDArgument : "imageind" ""
+/// @DnDArgument : "spriteind" "S_Enemis1G"
+/// @DnDSaveInfo : "spriteind" "S_Enemis1G"
+sprite_index = S_Enemis1G;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 45AFAAC8
+/// @DnDArgument : "speed" "0.2"
+image_speed = 0.2;

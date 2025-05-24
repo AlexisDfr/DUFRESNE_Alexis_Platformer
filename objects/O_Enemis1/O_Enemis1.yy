@@ -41,8 +41,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Enemis",
-    "path":"sprites/S_Enemis/S_Enemis.yy",
+    "name":"S_Enemis1G",
+    "path":"sprites/S_Enemis1G/S_Enemis1G.yy",
   },
   "spriteMaskId":null,
   "visible":true,

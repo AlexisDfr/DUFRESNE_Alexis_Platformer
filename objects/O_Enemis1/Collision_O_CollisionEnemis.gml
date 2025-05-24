@@ -5,6 +5,14 @@
 /// @DnDArgument : "type" "1"
 hspeed = -hspeed;
 
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 42D422DB
+/// @DnDArgument : "imageind" ""
+/// @DnDArgument : "spriteind" "S_Enemis1D"
+/// @DnDSaveInfo : "spriteind" "S_Enemis1D"
+sprite_index = S_Enemis1D;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 464B8980
