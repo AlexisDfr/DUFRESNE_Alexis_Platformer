@@ -30,7 +30,6 @@
     {"name":"inst_6B5D452","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_2DF12FB7","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_5A4CCB","path":"rooms/R_Niveau3/R_Niveau3.yy",},
-    {"name":"inst_D5736ED","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_27E4AD15","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_16F62516","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_14C0BE65","path":"rooms/R_Niveau3/R_Niveau3.yy",},
@@ -62,19 +61,13 @@
     {"name":"inst_2634117A","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_16588D7F","path":"rooms/R_Niveau3/R_Niveau3.yy",},
     {"name":"inst_6A5A4BBC","path":"rooms/R_Niveau3/R_Niveau3.yy",},
-    {"name":"inst_4149FFFA","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_71F7E651","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_1AFCC081","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_463F33A1","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_6AF8BEF5","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_8D83E74","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_23F1FAC2","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_68760863","path":"rooms/R_Niveau3/R_Niveau3.yy",},
   ],
   "isDnd":false,
   "layers":[
-    {"$GMRInstanceLayer":"","%Name":"Instances_2","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_D5736ED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D5736ED","objectId":{"name":"O_Pause","path":"objects/O_Pause/O_Pause.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":384.0,},
-      ],"layers":[],"name":"Instances_2","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Pause3","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"inst_68760863","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68760863","objectId":{"name":"O_Pause","path":"objects/O_Pause/O_Pause.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1504.0,"y":448.0,},
+      ],"layers":[],"name":"Pause3","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Soins","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_79C23810","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_79C23810","objectId":{"name":"O_Soin","path":"objects/O_Soin/O_Soin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3456.0,"y":1152.0,},
       ],"layers":[],"name":"Soins","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},

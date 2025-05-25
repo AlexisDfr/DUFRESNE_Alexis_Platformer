@@ -20,23 +20,23 @@
     {"name":"inst_62AE37F7","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_2C84C10A","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_2F4D8C04","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
-    {"name":"inst_2F1A4B2E","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
-    {"name":"inst_6BBA0721","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_70F59075","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_7BB2C3DC","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_58D71F58","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
+    {"name":"Pause","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
+    {"name":"inst_115FD76A","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
   ],
   "isDnd":false,
   "layers":[
-    {"$GMRInstanceLayer":"","%Name":"Instances_2","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_2F1A4B2E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F1A4B2E","objectId":{"name":"O_Pause","path":"objects/O_Pause/O_Pause.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":192.0,},
-      ],"layers":[],"name":"Instances_2","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Pause1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"Pause","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"Pause","objectId":{"name":"O_Pause","path":"objects/O_Pause/O_Pause.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":160.0,},
+      ],"layers":[],"name":"Pause1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Objets","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_15A9084A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_15A9084A","objectId":{"name":"O_Pieces","path":"objects/O_Pieces/O_Pieces.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":320.0,},
         {"$GMRInstance":"v2","%Name":"inst_58D71F58","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58D71F58","objectId":{"name":"O_Soin","path":"objects/O_Soin/O_Soin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1344.0,"y":320.0,},
       ],"layers":[],"name":"Objets","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"PersoTuto","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_6BBA0721","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6BBA0721","objectId":{"name":"O_PersoTuto","path":"objects/O_PersoTuto/O_PersoTuto.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":320.0,},
+        {"$GMRInstance":"v2","%Name":"inst_115FD76A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_115FD76A","objectId":{"name":"O_PersoTuto","path":"objects/O_PersoTuto/O_PersoTuto.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":320.0,},
       ],"layers":[],"name":"PersoTuto","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Texte","assets":[
         {"$GMRTextItem":"v2","%Name":"text_16BCDA6E","alignment":0,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fTuto","path":"fonts/fTuto/fTuto.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_16BCDA6E","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Echap pour Menu Pause","wrap":false,"x":32.0,"xorigin":0.0,"y":96.0,"yorigin":0.0,},
