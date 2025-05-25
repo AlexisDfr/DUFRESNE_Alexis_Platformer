@@ -1,18 +1,9 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 7994DDA9
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "invincible"
+/// @DnDHash : 2DE950C5
+/// @DnDArgument : "code" "invincible = false;$(13_10)$(13_10)global.dGold = 0;$(13_10)$(13_10)global.Ame = 0;$(13_10)$(13_10)"
 invincible = false;
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 7B733661
-/// @DnDArgument : "var" "global.dGold"
 global.dGold = 0;
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 0D69CD75
-/// @DnDArgument : "var" "global.Ame"
 global.Ame = 0;
