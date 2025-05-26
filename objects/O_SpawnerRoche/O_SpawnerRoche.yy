@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"O_TutoPiegesSol",
+  "%Name":"O_SpawnerRoche",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_TutoPiegesSol",
+  "name":"O_SpawnerRoche",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemis",
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_SpawnerRoche",
+    "path":"sprites/S_SpawnerRoche/S_SpawnerRoche.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
