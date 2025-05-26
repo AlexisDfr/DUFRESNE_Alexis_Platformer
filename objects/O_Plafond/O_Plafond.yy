@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_RoomSwap",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_Plafond",
+  "eventList":[],
   "managed":true,
-  "name":"O_RoomSwap",
+  "name":"O_Plafond",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_RoomSwapTuto",
-    "path":"sprites/S_RoomSwapTuto/S_RoomSwapTuto.yy",
+    "name":"S_Plafond",
+    "path":"sprites/S_Plafond/S_Plafond.yy",
   },
   "spriteMaskId":null,
   "visible":true,
