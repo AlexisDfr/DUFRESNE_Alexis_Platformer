@@ -159,8 +159,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"R_Niveau4","path":"rooms/R_Niveau4/R_Niveau4.yy",},},
     {"roomId":{"name":"R_NiveauTuto","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},},
+    {"roomId":{"name":"R_Niveau4","path":"rooms/R_Niveau4/R_Niveau4.yy",},},
     {"roomId":{"name":"R_Niveau2","path":"rooms/R_Niveau2/R_Niveau2.yy",},},
     {"roomId":{"name":"R_Niveau1","path":"rooms/R_Niveau1/R_Niveau1.yy",},},
     {"roomId":{"name":"R_Niveau3","path":"rooms/R_Niveau3/R_Niveau3.yy",},},

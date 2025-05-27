@@ -32,6 +32,13 @@
     {"name":"inst_3857B447","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_3775C0AD","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_8BB7803","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
+    {"name":"inst_4149FFFA","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_71F7E651","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_1AFCC081","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_463F33A1","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_6AF8BEF5","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_8D83E74","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_23F1FAC2","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
