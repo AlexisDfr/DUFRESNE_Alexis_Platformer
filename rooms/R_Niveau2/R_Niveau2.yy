@@ -70,13 +70,6 @@
     {"name":"inst_613FDDBD","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_40D7626B","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_56ABAE1B","path":"rooms/R_Niveau2/R_Niveau2.yy",},
-    {"name":"inst_4149FFFA","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_71F7E651","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_1AFCC081","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_463F33A1","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_6AF8BEF5","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_8D83E74","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_23F1FAC2","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[

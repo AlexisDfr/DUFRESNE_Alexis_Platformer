@@ -12,8 +12,10 @@ global.Ame = 0;
 /// @DnDVersion : 1.1
 /// @DnDHash : 4C868F5E
 /// @DnDArgument : "soundid" "So_BruitPas"
+/// @DnDArgument : "gain" "0.3"
+/// @DnDArgument : "pitch" "1"
 /// @DnDSaveInfo : "soundid" "So_BruitPas"
-audio_play_sound(So_BruitPas, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(So_BruitPas, 0, 0, 0.3, undefined, 1);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

@@ -9,8 +9,9 @@ audio_stop_sound(So_BruitPas);
 /// @DnDVersion : 1.1
 /// @DnDHash : 4159B99D
 /// @DnDArgument : "soundid" "So_Cri"
+/// @DnDArgument : "gain" "0.3"
 /// @DnDSaveInfo : "soundid" "So_Cri"
-audio_play_sound(So_Cri, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(So_Cri, 0, 0, 0.3, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
