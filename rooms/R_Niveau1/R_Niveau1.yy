@@ -63,6 +63,10 @@
     {"name":"inst_30DAB527","path":"rooms/R_Niveau1/R_Niveau1.yy",},
     {"name":"inst_204FB47","path":"rooms/R_Niveau1/R_Niveau1.yy",},
     {"name":"inst_5F65DEA2","path":"rooms/R_Niveau1/R_Niveau1.yy",},
+    {"name":"inst_3DD79C4A","path":"rooms/R_Niveau1/R_Niveau1.yy",},
+    {"name":"inst_4E9BD840","path":"rooms/R_Niveau1/R_Niveau1.yy",},
+    {"name":"inst_5CE92110","path":"rooms/R_Niveau1/R_Niveau1.yy",},
+    {"name":"inst_4C004F17","path":"rooms/R_Niveau1/R_Niveau1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -188,6 +192,24 @@
           1,1003,-5,0,8,1009,0,1011,1012,1013,0,0,1001,-4,0,7,1006,0,1008,1009,1010,1011,1012,-43,0,
         ],"TileDataFormat":1,},"tilesetId":{"name":"T_Plafond","path":"tilesets/T_Plafond/T_Plafond.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Backgrounds_1","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":1500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Backgrounds_1","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"S_Decor","path":"sprites/S_Decor/S_Decor.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
+    {"$GMRInstanceLayer":"","%Name":"Interactible","depth":1600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"inst_3DD79C4A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3DD79C4A","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Bienvenue au Premier Etage des Enfers.",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":64.0,"y":1280.0,},
+        {"$GMRInstance":"v2","%Name":"inst_4C004F17","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4C004F17","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Ici Deux types d'Enemis y rodent",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":192.0,"y":1280.0,},
+        {"$GMRInstance":"v2","%Name":"inst_4E9BD840","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E9BD840","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Attention au secousse le Roi Demon essaye de vous faire tomber.",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":4.0,"x":512.0,"y":1152.0,},
+        {"$GMRInstance":"v2","%Name":"inst_5CE92110","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5CE92110","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Il vous faut recollecter le maximum d'oeil afin de pouvoir monter a l'etage suivant.",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.5,"x":640.0,"y":1056.0,},
+      ],"layers":[],"name":"Interactible","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
   ],
   "name":"R_Niveau1",
   "parent":{

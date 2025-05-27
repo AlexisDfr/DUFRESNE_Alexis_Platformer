@@ -69,6 +69,14 @@
     {"name":"inst_41DF23BE","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_613FDDBD","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_40D7626B","path":"rooms/R_Niveau2/R_Niveau2.yy",},
+    {"name":"inst_56ABAE1B","path":"rooms/R_Niveau2/R_Niveau2.yy",},
+    {"name":"inst_4149FFFA","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_71F7E651","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_1AFCC081","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_463F33A1","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_6AF8BEF5","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_8D83E74","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_23F1FAC2","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -189,7 +197,13 @@
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":1300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_7861F5F6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7861F5F6","objectId":{"name":"O_Decor","path":"objects/O_Decor/O_Decor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.8666668,"scaleY":1.6222222,"x":2751.9998,"y":864.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":1400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRInstanceLayer":"","%Name":"Interactible","depth":1400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v2","%Name":"inst_56ABAE1B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_56ABAE1B","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Bien Jouer tu as atteint le Deuxieme Etage",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":5408.0,"y":1024.0,},
+      ],"layers":[],"name":"Interactible","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":1500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"R_Niveau2",
   "parent":{
