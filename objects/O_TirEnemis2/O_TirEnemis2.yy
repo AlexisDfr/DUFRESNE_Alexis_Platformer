@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_TirEnemis2",
-    "path":"sprites/S_TirEnemis2/S_TirEnemis2.yy",
+    "name":"S_TirEnemis2C",
+    "path":"sprites/S_TirEnemis2C/S_TirEnemis2C.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,3 +1,8 @@
+/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 3F276CDA
+audio_stop_all();
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4DF21EF2

@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"S_Soin",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":52,
-  "bbox_left":0,
+  "bbox_left":3,
   "bbox_right":58,
   "bbox_top":0,
   "collisionKind":1,

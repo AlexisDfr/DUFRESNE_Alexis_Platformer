@@ -1,15 +1,21 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 22939C96
-/// @DnDArgument : "expr" "-3"
+/// @DnDArgument : "expr" "6"
 /// @DnDArgument : "var" "shot_speed"
-shot_speed = -3;
+shot_speed = 6;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 56753840
+/// @DnDHash : 4D5BB7CA
 /// @DnDArgument : "speed" "shot_speed"
 speed = shot_speed;
+
+/// @DnDAction : YoYo Games.Movement.Set_Direction_Random
+/// @DnDVersion : 1.1
+/// @DnDHash : 7AA5198C
+/// @DnDArgument : "direction" "135,90,45,180,0,225,270,315"
+direction = choose(135,90,45,180,0,225,270,315);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

@@ -7,6 +7,8 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Enemis2","path":"objects/O_Enemis2/O_Enemis2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Enemis1","path":"objects/O_Enemis1/O_Enemis1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Enemis2V","path":"objects/O_Enemis2V/O_Enemis2V.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Enemis2V_1","path":"objects/O_Enemis2V_1/O_Enemis2V_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Enemis3","path":"objects/O_Enemis3/O_Enemis3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_EpeeHit",

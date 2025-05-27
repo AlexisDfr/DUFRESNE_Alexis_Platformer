@@ -5,21 +5,21 @@
   "bbox_bottom":63,
   "bbox_left":0,
   "bbox_right":63,
-  "bbox_top":0,
+  "bbox_top":3,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6db9402f-e87e-443f-8869-999f72afa279","name":"6db9402f-e87e-443f-8869-999f72afa279","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0247d13c-fad9-4032-a380-14133601b793","name":"0247d13c-fad9-4032-a380-14133601b793","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7f88c80d-555e-426c-99f3-031478f42a5f","blendMode":0,"displayName":"default","isLocked":false,"name":"7f88c80d-555e-426c-99f3-031478f42a5f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"39cbbd18-9311-4f5c-836b-5fd8db778ec2","blendMode":0,"displayName":"default","isLocked":false,"name":"39cbbd18-9311-4f5c-836b-5fd8db778ec2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_PiegeSol",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6db9402f-e87e-443f-8869-999f72afa279","path":"sprites/S_PiegeSol/S_PiegeSol.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"abc8dd5f-908f-4c7c-937f-20c1f273a30b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0247d13c-fad9-4032-a380-14133601b793","path":"sprites/S_PiegeSol/S_PiegeSol.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d1420951-e697-49d3-9945-970350e1490f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"S_Enemis1G",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":127,
-  "bbox_left":14,
-  "bbox_right":108,
+  "bbox_left":21,
+  "bbox_right":76,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
