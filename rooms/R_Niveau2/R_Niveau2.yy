@@ -70,6 +70,9 @@
     {"name":"inst_613FDDBD","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_40D7626B","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_56ABAE1B","path":"rooms/R_Niveau2/R_Niveau2.yy",},
+    {"name":"inst_524E7B7F","path":"rooms/R_Niveau2/R_Niveau2.yy",},
+    {"name":"inst_215688D","path":"rooms/R_Niveau2/R_Niveau2.yy",},
+    {"name":"inst_22245E2D","path":"rooms/R_Niveau2/R_Niveau2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -195,6 +198,18 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Bien Jouer tu as atteint le Deuxieme Etage",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":5408.0,"y":1024.0,},
+        {"$GMRInstance":"v2","%Name":"inst_524E7B7F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_524E7B7F","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Les Enemis sont les memes qu'a l'etage precedent mais en plus grand nombre.",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"200",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":5248.0,"y":1024.0,},
+        {"$GMRInstance":"v2","%Name":"inst_215688D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_215688D","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Le Roi Demon veut vraiment ma peau.",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":3968.0,"y":1344.0,},
+        {"$GMRInstance":"v2","%Name":"inst_22245E2D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22245E2D","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Il te faut 6 Oeils pour passer.",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"150",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":352.0,"y":640.0,},
       ],"layers":[],"name":"Interactible","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":1500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

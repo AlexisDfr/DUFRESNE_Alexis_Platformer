@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_BoutonReprendre",
+  "%Name":"O_Stalactite",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_BoutonReprendre",
+  "name":"O_Stalactite",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"Enemis",
+    "path":"folders/Objects/Enemis.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_BoutonReprendre",
-    "path":"sprites/S_BoutonReprendre/S_BoutonReprendre.yy",
+    "name":"S_Stalactite",
+    "path":"sprites/S_Stalactite/S_Stalactite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

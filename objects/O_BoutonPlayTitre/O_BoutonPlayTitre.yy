@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_BoutonReprendre",
+  "%Name":"O_BoutonPlayTitre",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_BoutonReprendre",
+  "name":"O_BoutonPlayTitre",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_BoutonReprendre",
-    "path":"sprites/S_BoutonReprendre/S_BoutonReprendre.yy",
+    "name":"S_BoutonPlay",
+    "path":"sprites/S_BoutonPlay/S_BoutonPlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,

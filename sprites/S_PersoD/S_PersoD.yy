@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"S_PersoD",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":127,
-  "bbox_left":33,
-  "bbox_right":88,
+  "bbox_left":46,
+  "bbox_right":87,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,

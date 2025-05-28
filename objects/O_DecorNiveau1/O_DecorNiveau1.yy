@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_BoutonReprendre",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_DecorNiveau1",
+  "eventList":[],
   "managed":true,
-  "name":"O_BoutonReprendre",
+  "name":"O_DecorNiveau1",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_BoutonReprendre",
-    "path":"sprites/S_BoutonReprendre/S_BoutonReprendre.yy",
+    "name":"S_DecorNiveau1",
+    "path":"sprites/S_DecorNiveau1/S_DecorNiveau1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

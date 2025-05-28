@@ -32,13 +32,6 @@
     {"name":"inst_3857B447","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_3775C0AD","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
     {"name":"inst_8BB7803","path":"rooms/R_NiveauTuto/R_NiveauTuto.yy",},
-    {"name":"inst_4149FFFA","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_71F7E651","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_1AFCC081","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_463F33A1","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_6AF8BEF5","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_8D83E74","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_23F1FAC2","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -107,7 +100,8 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"90",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2258065,"scaleY":2.5,"x":800.0,"y":224.0,},
         {"$GMRInstance":"v2","%Name":"inst_3857B447","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3857B447","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Il est temps de s'enfuir",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Il est temps d'avancer",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text_Time","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2258065,"scaleY":2.5,"x":1696.0,"y":224.0,},
       ],"layers":[],"name":"Interactible","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":1100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},

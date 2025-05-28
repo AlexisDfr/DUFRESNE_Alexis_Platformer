@@ -42,14 +42,14 @@
     {"name":"inst_759309CD","path":"rooms/R_EcranT/R_EcranT.yy",},
     {"name":"inst_32537B93","path":"rooms/R_EcranT/R_EcranT.yy",},
     {"name":"inst_22ADB2F4","path":"rooms/R_EcranT/R_EcranT.yy",},
-    {"name":"inst_6DC7BD2E","path":"rooms/R_EcranT/R_EcranT.yy",},
     {"name":"inst_7738DC42","path":"rooms/R_EcranT/R_EcranT.yy",},
+    {"name":"inst_355CFFC3","path":"rooms/R_EcranT/R_EcranT.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"UI","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_6DC7BD2E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DC7BD2E","objectId":{"name":"O_BoutonPlay","path":"objects/O_BoutonPlay/O_BoutonPlay.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":384.0,},
         {"$GMRInstance":"v2","%Name":"inst_7738DC42","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7738DC42","objectId":{"name":"O_Exit","path":"objects/O_Exit/O_Exit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":640.0,},
+        {"$GMRInstance":"v2","%Name":"inst_355CFFC3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_355CFFC3","objectId":{"name":"O_BoutonPlayTitre","path":"objects/O_BoutonPlayTitre/O_BoutonPlayTitre.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":384.0,},
       ],"layers":[],"name":"UI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Lave","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_6D9D8FDA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D9D8FDA","objectId":{"name":"O_Lave","path":"objects/O_Lave/O_Lave.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
