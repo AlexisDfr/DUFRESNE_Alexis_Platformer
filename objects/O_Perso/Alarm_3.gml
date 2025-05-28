@@ -16,6 +16,6 @@ audio_play_sound(So_Cri, 0, 0, 0.3, undefined, 1.0);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 36CF74DC
-/// @DnDArgument : "steps" "130"
+/// @DnDArgument : "steps" "145"
 /// @DnDArgument : "alarm" "4"
-alarm_set(4, 130);
+alarm_set(4, 145);

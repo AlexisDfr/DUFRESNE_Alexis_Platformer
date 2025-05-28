@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Enemis",
-    "path":"folders/Sprites/Enemis.yy",
+    "name":"Pieges",
+    "path":"folders/Sprites/Pieges.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

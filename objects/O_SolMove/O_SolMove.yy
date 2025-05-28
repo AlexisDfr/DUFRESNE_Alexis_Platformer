@@ -9,8 +9,8 @@
   "name":"O_SolMove",
   "overriddenProperties":[],
   "parent":{
-    "name":"INGAME",
-    "path":"folders/Objects/INGAME.yy",
+    "name":"Pieges",
+    "path":"folders/Objects/Pieges.yy",
   },
   "parentObjectId":null,
   "persistent":false,

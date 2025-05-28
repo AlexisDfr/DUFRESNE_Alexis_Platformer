@@ -9,8 +9,8 @@
   "name":"O_SpawnerFlamme_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemis",
-    "path":"folders/Objects/Enemis.yy",
+    "name":"Pieges",
+    "path":"folders/Objects/Pieges.yy",
   },
   "parentObjectId":null,
   "persistent":false,

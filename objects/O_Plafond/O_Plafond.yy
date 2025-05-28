@@ -6,8 +6,8 @@
   "name":"O_Plafond",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"INGAME",
+    "path":"folders/Objects/INGAME.yy",
   },
   "parentObjectId":null,
   "persistent":false,

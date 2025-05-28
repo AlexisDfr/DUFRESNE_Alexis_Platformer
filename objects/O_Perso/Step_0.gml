@@ -194,4 +194,12 @@ if(!(room == R_Mort)){	/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Dow
 			/// @DnDArgument : "objectid" "O_EpeeHit"
 			/// @DnDArgument : "layer" ""Attaque""
 			/// @DnDSaveInfo : "objectid" "O_EpeeHit"
-			instance_create_layer(x + 0, y + 0, "Attaque", O_EpeeHit);}}}
+			instance_create_layer(x + 0, y + 0, "Attaque", O_EpeeHit);
+		
+			/// @DnDAction : YoYo Games.Audio.Play_Audio
+			/// @DnDVersion : 1.1
+			/// @DnDHash : 572B84ED
+			/// @DnDParent : 32D04DA2
+			/// @DnDArgument : "soundid" "So_Arme"
+			/// @DnDSaveInfo : "soundid" "So_Arme"
+			audio_play_sound(So_Arme, 0, 0, 1.0, undefined, 1.0);}}}
