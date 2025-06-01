@@ -201,5 +201,6 @@ if(!(room == R_Mort)){	/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Dow
 			/// @DnDHash : 572B84ED
 			/// @DnDParent : 32D04DA2
 			/// @DnDArgument : "soundid" "So_Arme"
+			/// @DnDArgument : "gain" "0.5"
 			/// @DnDSaveInfo : "soundid" "So_Arme"
-			audio_play_sound(So_Arme, 0, 0, 1.0, undefined, 1.0);}}}
+			audio_play_sound(So_Arme, 0, 0, 0.5, undefined, 1.0);}}}

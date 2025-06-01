@@ -73,6 +73,7 @@
     {"name":"inst_215688D","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_22245E2D","path":"rooms/R_Niveau2/R_Niveau2.yy",},
     {"name":"inst_286FCFA7","path":"rooms/R_Niveau2/R_Niveau2.yy",},
+    {"name":"inst_6DF10457","path":"rooms/R_Niveau2/R_Niveau2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -136,7 +137,7 @@
         {"name":"g_NoiseTexture","type":2,"value":"_filter_screenshake_noise",},
       ],"resourceType":"GMREffectLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
     {"$GMREffectLayer":"","%Name":"Tremblement","depth":800,"effectEnabled":true,"effectType":"_filter_screenshake","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tremblement","properties":[
-        {"name":"g_Magnitude","type":0,"value":"1",},
+        {"name":"g_Magnitude","type":0,"value":"1.5",},
         {"name":"g_ShakeSpeed","type":0,"value":"0.1",},
         {"name":"g_NoiseTexture","type":2,"value":"_filter_screenshake_noise",},
       ],"resourceType":"GMREffectLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -188,10 +189,11 @@
           -23,53,-2,52,-13,53,2,52,45,-7,-2147483648,-2,53,-5,-2147483648,-6,53,-8,-2147483648,-7,53,-7,-2147483648,
           -2,45,-174,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"T_Plafond","path":"tilesets/T_Plafond/T_Plafond.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":1300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+    {"$GMRInstanceLayer":"","%Name":"Decors","depth":1300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_7861F5F6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7861F5F6","objectId":{"name":"O_Decor","path":"objects/O_Decor/O_Decor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.8666668,"scaleY":1.6222222,"x":2751.9998,"y":864.0,},
         {"$GMRInstance":"v2","%Name":"inst_286FCFA7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_286FCFA7","objectId":{"name":"O_DecorNiveau2","path":"objects/O_DecorNiveau2/O_DecorNiveau2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-3.4760532,"scaleX":1.0174545,"scaleY":1.0,"x":0.117744446,"y":28.119593,},
-      ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+        {"$GMRInstance":"v2","%Name":"inst_6DF10457","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DF10457","objectId":{"name":"O_BossNiveau2","path":"objects/O_BossNiveau2/O_BossNiveau2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":320.0,},
+      ],"layers":[],"name":"Decors","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Interactible","depth":1400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_56ABAE1B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_56ABAE1B","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Text_Narration","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"propertyId":{"name":"Text","path":"objects/O_Text_Narration/O_Text_Narration.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Bien Jouer tu as atteint le Deuxieme Etage",},

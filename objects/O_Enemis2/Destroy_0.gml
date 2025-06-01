@@ -2,8 +2,9 @@
 /// @DnDVersion : 1.1
 /// @DnDHash : 2CB25090
 /// @DnDArgument : "soundid" "So_EnemiMort"
+/// @DnDArgument : "gain" "0.5"
 /// @DnDSaveInfo : "soundid" "So_EnemiMort"
-audio_play_sound(So_EnemiMort, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(So_EnemiMort, 0, 0, 0.5, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
